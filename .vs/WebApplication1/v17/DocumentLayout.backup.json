@@ -1,0 +1,540 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\measureStation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6805238-AB9B-4B2E-8F5E-5ADC0880F570}|Bl\\Bl.csproj|d:\\measurestation\\bl\\service\\serviceblstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6805238-AB9B-4B2E-8F5E-5ADC0880F570}|Bl\\Bl.csproj|solutionrelative:bl\\service\\serviceblstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6805238-AB9B-4B2E-8F5E-5ADC0880F570}|Bl\\Bl.csproj|d:\\measurestation\\bl\\blmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6805238-AB9B-4B2E-8F5E-5ADC0880F570}|Bl\\Bl.csproj|solutionrelative:bl\\blmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6805238-AB9B-4B2E-8F5E-5ADC0880F570}|Bl\\Bl.csproj|d:\\measurestation\\bl\\models\\blstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6805238-AB9B-4B2E-8F5E-5ADC0880F570}|Bl\\Bl.csproj|solutionrelative:bl\\models\\blstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|d:\\measurestation\\dal\\database\\service\\servicestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|solutionrelative:dal\\database\\service\\servicestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|d:\\measurestation\\dal\\servicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|solutionrelative:dal\\servicedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27935AA-1DD7-4BE9-96F1-1A3BD0FFB163}|WebApplication1\\WebApplication1.csproj|d:\\measurestation\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27935AA-1DD7-4BE9-96F1-1A3BD0FFB163}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|d:\\measurestation\\dal\\database\\models\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|solutionrelative:dal\\database\\models\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27935AA-1DD7-4BE9-96F1-1A3BD0FFB163}|WebApplication1\\WebApplication1.csproj|d:\\measurestation\\webapplication1\\controllers\\stationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27935AA-1DD7-4BE9-96F1-1A3BD0FFB163}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\stationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|d:\\measurestation\\dal\\database\\api\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|solutionrelative:dal\\database\\api\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6805238-AB9B-4B2E-8F5E-5ADC0880F570}|Bl\\Bl.csproj|d:\\measurestation\\bl\\api\\iblstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6805238-AB9B-4B2E-8F5E-5ADC0880F570}|Bl\\Bl.csproj|solutionrelative:bl\\api\\iblstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|d:\\measurestation\\dal\\json\\service\\servicemeasurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|solutionrelative:dal\\json\\service\\servicemeasurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|d:\\measurestation\\dal\\json\\api\\imeasurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|solutionrelative:dal\\json\\api\\imeasurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|d:\\measurestation\\dal\\json\\api\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|solutionrelative:dal\\json\\api\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|d:\\measurestation\\dal\\database\\api\\istatoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|solutionrelative:dal\\database\\api\\istatoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|d:\\measurestation\\dal\\database\\models\\getcalculatedatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|solutionrelative:dal\\database\\models\\getcalculatedatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6805238-AB9B-4B2E-8F5E-5ADC0880F570}|Bl\\Bl.csproj|d:\\measurestation\\bl\\models\\blmeauserment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6805238-AB9B-4B2E-8F5E-5ADC0880F570}|Bl\\Bl.csproj|solutionrelative:bl\\models\\blmeauserment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6805238-AB9B-4B2E-8F5E-5ADC0880F570}|Bl\\Bl.csproj|d:\\measurestation\\bl\\api\\ibl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6805238-AB9B-4B2E-8F5E-5ADC0880F570}|Bl\\Bl.csproj|solutionrelative:bl\\api\\ibl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27935AA-1DD7-4BE9-96F1-1A3BD0FFB163}|WebApplication1\\WebApplication1.csproj|d:\\measurestation\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D27935AA-1DD7-4BE9-96F1-1A3BD0FFB163}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27935AA-1DD7-4BE9-96F1-1A3BD0FFB163}|WebApplication1\\WebApplication1.csproj|d:\\measurestation\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D27935AA-1DD7-4BE9-96F1-1A3BD0FFB163}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|d:\\measurestation\\dal\\database\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|solutionrelative:dal\\database\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|d:\\measurestation\\dal\\json\\models\\measurements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|solutionrelative:dal\\json\\models\\measurements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6805238-AB9B-4B2E-8F5E-5ADC0880F570}|Bl\\Bl.csproj|d:\\measurestation\\bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6805238-AB9B-4B2E-8F5E-5ADC0880F570}|Bl\\Bl.csproj|solutionrelative:bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|d:\\measurestation\\dal\\json\\jsonesfiles\\station1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|solutionrelative:dal\\json\\jsonesfiles\\station1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6805238-AB9B-4B2E-8F5E-5ADC0880F570}|Bl\\Bl.csproj|d:\\measurestation\\bl\\bl.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C6805238-AB9B-4B2E-8F5E-5ADC0880F570}|Bl\\Bl.csproj|solutionrelative:bl\\bl.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6805238-AB9B-4B2E-8F5E-5ADC0880F570}|Bl\\Bl.csproj|d:\\measurestation\\bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6805238-AB9B-4B2E-8F5E-5ADC0880F570}|Bl\\Bl.csproj|solutionrelative:bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|d:\\measurestation\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|d:\\measurestation\\dal\\json\\jsonesfiles\\station4.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|solutionrelative:dal\\json\\jsonesfiles\\station4.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|d:\\measurestation\\dal\\json\\jsonesfiles\\station3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|solutionrelative:dal\\json\\jsonesfiles\\station3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|d:\\measurestation\\dal\\json\\jsonesfiles\\station2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88627C40-408A-4A1D-9DA8-F337E062FCDD}|Dal\\Dal.csproj|solutionrelative:dal\\json\\jsonesfiles\\station2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05D1\u05E8\u05DC\u05D9\u05DF C#\\PROJECT\\Dal\\DataBase\\Api\\IDal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05D1\u05E8\u05DC\u05D9\u05DF C#\\PROJECT\\Dal\\DataBase\\Models\\StationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 107,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbmanager.cs",
+              "DocumentMoniker": "D:\\measureStation\\Dal\\DataBase\\models\\dbmanager.cs",
+              "RelativeDocumentMoniker": "Dal\\DataBase\\models\\dbmanager.cs",
+              "ToolTip": "D:\\measureStation\\Dal\\DataBase\\models\\dbmanager.cs",
+              "RelativeToolTip": "Dal\\DataBase\\models\\dbmanager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T17:51:38.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceMeasurement.cs",
+              "DocumentMoniker": "D:\\measureStation\\Dal\\Json\\Service\\ServiceMeasurement.cs",
+              "RelativeDocumentMoniker": "Dal\\Json\\Service\\ServiceMeasurement.cs",
+              "ToolTip": "D:\\measureStation\\Dal\\Json\\Service\\ServiceMeasurement.cs",
+              "RelativeToolTip": "Dal\\Json\\Service\\ServiceMeasurement.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAwwJ0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T20:44:42.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\measureStation\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\measureStation\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:16:55.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBlStation.cs",
+              "DocumentMoniker": "D:\\measureStation\\Bl\\Api\\IBlStation.cs",
+              "RelativeDocumentMoniker": "Bl\\Api\\IBlStation.cs",
+              "ToolTip": "D:\\measureStation\\Bl\\Api\\IBlStation.cs",
+              "RelativeToolTip": "Bl\\Api\\IBlStation.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:15:07.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceBlStation.cs",
+              "DocumentMoniker": "D:\\measureStation\\Bl\\Service\\ServiceBlStation.cs",
+              "RelativeDocumentMoniker": "Bl\\Service\\ServiceBlStation.cs",
+              "ToolTip": "D:\\measureStation\\Bl\\Service\\ServiceBlStation.cs",
+              "RelativeToolTip": "Bl\\Service\\ServiceBlStation.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAuwNQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T17:06:39.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StationsController.cs",
+              "DocumentMoniker": "D:\\measureStation\\WebApplication1\\Controllers\\StationsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\StationsController.cs",
+              "ToolTip": "D:\\measureStation\\WebApplication1\\Controllers\\StationsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\StationsController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAADgv10AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T21:35:19.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BLstation.cs",
+              "DocumentMoniker": "D:\\measureStation\\Bl\\Models\\BLstation.cs",
+              "RelativeDocumentMoniker": "Bl\\Models\\BLstation.cs",
+              "ToolTip": "D:\\measureStation\\Bl\\Models\\BLstation.cs",
+              "RelativeToolTip": "Bl\\Models\\BLstation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:16:51.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICrud.cs",
+              "DocumentMoniker": "D:\\measureStation\\Dal\\Json\\Api\\ICrud.cs",
+              "RelativeDocumentMoniker": "Dal\\Json\\Api\\ICrud.cs",
+              "ToolTip": "D:\\measureStation\\Dal\\Json\\Api\\ICrud.cs",
+              "RelativeToolTip": "Dal\\Json\\Api\\ICrud.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T20:41:29.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceStation.cs",
+              "DocumentMoniker": "D:\\measureStation\\Dal\\DataBase\\Service\\ServiceStation.cs",
+              "RelativeDocumentMoniker": "Dal\\DataBase\\Service\\ServiceStation.cs",
+              "ToolTip": "D:\\measureStation\\Dal\\DataBase\\Service\\ServiceStation.cs",
+              "RelativeToolTip": "Dal\\DataBase\\Service\\ServiceStation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T17:57:37.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICrud.cs",
+              "DocumentMoniker": "D:\\measureStation\\Dal\\DataBase\\Api\\ICrud.cs",
+              "RelativeDocumentMoniker": "Dal\\DataBase\\Api\\ICrud.cs",
+              "ToolTip": "D:\\measureStation\\Dal\\DataBase\\Api\\ICrud.cs",
+              "RelativeToolTip": "Dal\\DataBase\\Api\\ICrud.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:15:41.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceDal.cs",
+              "DocumentMoniker": "D:\\measureStation\\Dal\\ServiceDal.cs",
+              "RelativeDocumentMoniker": "Dal\\ServiceDal.cs",
+              "ToolTip": "D:\\measureStation\\Dal\\ServiceDal.cs",
+              "RelativeToolTip": "Dal\\ServiceDal.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwBwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:17:05.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BLManager.cs",
+              "DocumentMoniker": "D:\\measureStation\\Bl\\BLManager.cs",
+              "RelativeDocumentMoniker": "Bl\\BLManager.cs",
+              "ToolTip": "D:\\measureStation\\Bl\\BLManager.cs",
+              "RelativeToolTip": "Bl\\BLManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T22:28:48.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMeasurement.cs",
+              "DocumentMoniker": "D:\\measureStation\\Dal\\Json\\Api\\IMeasurement.cs",
+              "RelativeDocumentMoniker": "Dal\\Json\\Api\\IMeasurement.cs",
+              "ToolTip": "D:\\measureStation\\Dal\\Json\\Api\\IMeasurement.cs",
+              "RelativeToolTip": "Dal\\Json\\Api\\IMeasurement.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T20:41:54.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IStatoin.cs",
+              "DocumentMoniker": "D:\\measureStation\\Dal\\DataBase\\Api\\IStatoin.cs",
+              "RelativeDocumentMoniker": "Dal\\DataBase\\Api\\IStatoin.cs",
+              "ToolTip": "D:\\measureStation\\Dal\\DataBase\\Api\\IStatoin.cs",
+              "RelativeToolTip": "Dal\\DataBase\\Api\\IStatoin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:21:18.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetCalculateDatum.cs",
+              "DocumentMoniker": "D:\\measureStation\\Dal\\DataBase\\models\\GetCalculateDatum.cs",
+              "RelativeDocumentMoniker": "Dal\\DataBase\\models\\GetCalculateDatum.cs",
+              "ToolTip": "D:\\measureStation\\Dal\\DataBase\\models\\GetCalculateDatum.cs",
+              "RelativeToolTip": "Dal\\DataBase\\models\\GetCalculateDatum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T17:06:46.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BlMeauserment.cs",
+              "DocumentMoniker": "D:\\measureStation\\Bl\\Models\\BlMeauserment.cs",
+              "RelativeDocumentMoniker": "Bl\\Models\\BlMeauserment.cs",
+              "ToolTip": "D:\\measureStation\\Bl\\Models\\BlMeauserment.cs",
+              "RelativeToolTip": "Bl\\Models\\BlMeauserment.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:35:25.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBl.cs",
+              "DocumentMoniker": "D:\\measureStation\\Bl\\Api\\IBl.cs",
+              "RelativeDocumentMoniker": "Bl\\Api\\IBl.cs",
+              "ToolTip": "D:\\measureStation\\Bl\\Api\\IBl.cs",
+              "RelativeToolTip": "Bl\\Api\\IBl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T22:29:27.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Measurements.cs",
+              "DocumentMoniker": "D:\\measureStation\\Dal\\Json\\Models\\Measurements.cs",
+              "RelativeDocumentMoniker": "Dal\\Json\\Models\\Measurements.cs",
+              "ToolTip": "D:\\measureStation\\Dal\\Json\\Models\\Measurements.cs",
+              "RelativeToolTip": "Dal\\Json\\Models\\Measurements.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T20:36:10.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Station.cs",
+              "DocumentMoniker": "D:\\measureStation\\Dal\\DataBase\\models\\Station.cs",
+              "RelativeDocumentMoniker": "Dal\\DataBase\\models\\Station.cs",
+              "ToolTip": "D:\\measureStation\\Dal\\DataBase\\models\\Station.cs",
+              "RelativeToolTip": "Dal\\DataBase\\models\\Station.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T20:47:37.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\measureStation\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "D:\\measureStation\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T21:34:38.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "D:\\measureStation\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "D:\\measureStation\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-07T13:54:26.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Dal.csproj",
+              "DocumentMoniker": "D:\\measureStation\\Dal\\Dal.csproj",
+              "RelativeDocumentMoniker": "Dal\\Dal.csproj",
+              "ToolTip": "D:\\measureStation\\Dal\\Dal.csproj",
+              "RelativeToolTip": "Dal\\Dal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T17:36:06.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Bl.csproj",
+              "DocumentMoniker": "D:\\measureStation\\Bl\\Bl.csproj",
+              "RelativeDocumentMoniker": "Bl\\Bl.csproj",
+              "ToolTip": "D:\\measureStation\\Bl\\Bl.csproj",
+              "RelativeToolTip": "Bl\\Bl.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T11:23:53.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Bl",
+              "DocumentMoniker": "D:\\measureStation\\Bl\\Bl.csproj",
+              "RelativeDocumentMoniker": "Bl\\Bl.csproj",
+              "ToolTip": "D:\\measureStation\\Bl\\Bl.csproj",
+              "RelativeToolTip": "Bl\\Bl.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T11:30:26.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "station1.json",
+              "DocumentMoniker": "D:\\measureStation\\Dal\\Json\\JsonesFiles\\station1.json",
+              "RelativeDocumentMoniker": "Dal\\Json\\JsonesFiles\\station1.json",
+              "ToolTip": "D:\\measureStation\\Dal\\Json\\JsonesFiles\\station1.json",
+              "RelativeToolTip": "Dal\\Json\\JsonesFiles\\station1.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-07T20:36:23.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IDal.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05D1\u05E8\u05DC\u05D9\u05DF C#\\PROJECT\\Dal\\DataBase\\Api\\IDal.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05D1\u05E8\u05DC\u05D9\u05DF C#\\PROJECT\\Dal\\DataBase\\Api\\IDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:21:17.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\measureStation\\Bl\\Class1.cs",
+              "RelativeDocumentMoniker": "Bl\\Class1.cs",
+              "ToolTip": "D:\\measureStation\\Bl\\Class1.cs",
+              "RelativeToolTip": "Bl\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:12:46.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05D1\u05E8\u05DC\u05D9\u05DF C#\\PROJECT\\Dal\\DataBase\\Models\\StationDbContext.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05EA\u05DE\u05E9\\Desktop\\\u05D1\u05E8\u05DC\u05D9\u05DF C#\\PROJECT\\Dal\\DataBase\\Models\\StationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T20:47:27.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "station4.json",
+              "DocumentMoniker": "D:\\measureStation\\Dal\\Json\\JsonesFiles\\station4.json",
+              "RelativeDocumentMoniker": "Dal\\Json\\JsonesFiles\\station4.json",
+              "ToolTip": "D:\\measureStation\\Dal\\Json\\JsonesFiles\\station4.json",
+              "RelativeToolTip": "Dal\\Json\\JsonesFiles\\station4.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-07T20:40:12.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "station3.json",
+              "DocumentMoniker": "D:\\measureStation\\Dal\\Json\\JsonesFiles\\station3.json",
+              "RelativeDocumentMoniker": "Dal\\Json\\JsonesFiles\\station3.json",
+              "ToolTip": "D:\\measureStation\\Dal\\Json\\JsonesFiles\\station3.json",
+              "RelativeToolTip": "Dal\\Json\\JsonesFiles\\station3.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-07T20:40:00.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "station2.json",
+              "DocumentMoniker": "D:\\measureStation\\Dal\\Json\\JsonesFiles\\station2.json",
+              "RelativeDocumentMoniker": "Dal\\Json\\JsonesFiles\\station2.json",
+              "ToolTip": "D:\\measureStation\\Dal\\Json\\JsonesFiles\\station2.json",
+              "RelativeToolTip": "Dal\\Json\\JsonesFiles\\station2.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-07T20:39:54.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
